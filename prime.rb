@@ -9,5 +9,7 @@ def prime?(number)
       end
     end
     return true
+  else
+    return false
   end
 end
